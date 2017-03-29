@@ -1,0 +1,213 @@
+{
+    "currency": "EUR",
+    "currPrecision": 2,
+    "trips": [
+        {
+            "origin": "TSF",
+            "originName": "Venezia (Treviso)",
+            "destination": "STN",
+            "destinationName": "Londra (Stansted)",
+            "dates": [
+                {
+                    "dateOut": "2017-04-16T00:00:00.000",
+                    "flights": [
+                        {
+                            "flightNumber": "FR 793",
+                            "time": [
+                                "2017-04-16T09:45:00.000",
+                                "2017-04-16T10:55:00.000"
+                            ],
+                            "timeUTC": [
+                                "2017-04-16T07:45:00.000Z",
+                                "2017-04-16T09:55:00.000Z"
+                            ],
+                            "duration": "02:10",
+                            "faresLeft": 2,
+                            "flightKey": "FR~ 793~ ~~TSF~04/16/2017 09:45~STN~04/16/2017 10:55~",
+                            "infantsLeft": 16,
+                            "regularFare": {
+                                "fareKey": "0~K~~K6HIGH~BND6~~1~X",
+                                "fareClass": "K",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 100.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 100.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "flightNumber": "FR 795",
+                            "time": [
+                                "2017-04-16T16:35:00.000",
+                                "2017-04-16T17:45:00.000"
+                            ],
+                            "timeUTC": [
+                                "2017-04-16T14:35:00.000Z",
+                                "2017-04-16T16:45:00.000Z"
+                            ],
+                            "duration": "02:10",
+                            "faresLeft": -1,
+                            "flightKey": "FR~ 795~ ~~TSF~04/16/2017 16:35~STN~04/16/2017 17:45~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "0~F~~F6HIGH~BND6~~1~X",
+                                "fareClass": "F",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 170.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 170.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "flightNumber": "FR 799",
+                            "time": [
+                                "2017-04-16T22:30:00.000",
+                                "2017-04-16T23:40:00.000"
+                            ],
+                            "timeUTC": [
+                                "2017-04-16T20:30:00.000Z",
+                                "2017-04-16T22:40:00.000Z"
+                            ],
+                            "duration": "02:10",
+                            "faresLeft": 2,
+                            "flightKey": "FR~ 799~ ~~TSF~04/16/2017 22:30~STN~04/16/2017 23:40~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "0~F~~F6HIGH~BND6~~1~X",
+                                "fareClass": "F",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 170.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 170.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "origin": "STN",
+            "originName": "Venezia (Treviso)",
+            "destination": "TSF",
+            "destinationName": "Londra (Stansted)",
+            "dates": [
+                {
+                    "dateOut": "2017-04-14T00:00:00.000",
+                    "flights": [
+                        {
+                            "flightNumber": "FR 792",
+                            "time": [
+                                "2017-04-14T06:20:00.000",
+                                "2017-04-14T09:20:00.000"
+                            ],
+                            "timeUTC": [
+                                "2017-04-14T05:20:00.000Z",
+                                "2017-04-14T07:20:00.000Z"
+                            ],
+                            "duration": "02:00",
+                            "faresLeft": 4,
+                            "flightKey": "FR~ 792~ ~~STN~04/14/2017 06:20~TSF~04/14/2017 09:20~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "0~E~~E6HIGH~BND6~~1~X",
+                                "fareClass": "E",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 120.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 120.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "flightNumber": "FR 794",
+                            "time": [
+                                "2017-04-14T13:10:00.000",
+                                "2017-04-14T16:10:00.000"
+                            ],
+                            "timeUTC": [
+                                "2017-04-14T12:10:00.000Z",
+                                "2017-04-14T14:10:00.000Z"
+                            ],
+                            "duration": "02:00",
+                            "faresLeft": 1,
+                            "flightKey": "FR~ 794~ ~~STN~04/14/2017 13:10~TSF~04/14/2017 16:10~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "0~V~~V6HIGH~BND6~~1~X",
+                                "fareClass": "V",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 83.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 83.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "flightNumber": "FR 798",
+                            "time": [
+                                "2017-04-14T19:05:00.000",
+                                "2017-04-14T22:05:00.000"
+                            ],
+                            "timeUTC": [
+                                "2017-04-14T18:05:00.000Z",
+                                "2017-04-14T20:05:00.000Z"
+                            ],
+                            "duration": "02:00",
+                            "faresLeft": 4,
+                            "flightKey": "FR~ 798~ ~~STN~04/14/2017 19:05~TSF~04/14/2017 22:05~",
+                            "infantsLeft": 17,
+                            "regularFare": {
+                                "fareKey": "0~V~~V6HIGH~BND6~~1~X",
+                                "fareClass": "V",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 83.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 83.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "serverTimeUTC": "2017-03-29T07:31:19.235Z"
+}

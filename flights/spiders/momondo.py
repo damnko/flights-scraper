@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import logging
 import scrapy
 from scrapy.conf import settings
 import random
@@ -27,7 +26,9 @@ class MomondoSpider(scrapy.Spider):
             'oslo': 'OSL',
             'st petersburg': 'LED',
             'moscow': 'MOW',
-            'london': 'LON'
+            'london': 'LON',
+            'helsinki': 'HEL',
+            'reykjavik': 'REK'
         }
         # find upcoming Friday(going) and Sunday(coming back)
         next_friday = dates.find_next_friday()
@@ -36,7 +37,7 @@ class MomondoSpider(scrapy.Spider):
         self.dates = dates.create_dates(3, next_friday, next_sunday, '%d-%m-%Y')
         # set the user-agent for the current search session
         opts = Options()
-        opts.add_argument(random.sample(settings['USER_AGENTS'], 1)[0])
+        opts.add_argument(random.choice(settings['USER_AGENTS']))
         # set Chrome as driver
         self.driver = webdriver.Chrome(chrome_options=opts)
         self.logger.info('User-agent is now: %s', self.driver.execute_script("return navigator.userAgent"))
