@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 
-# Define here the models for your scraped items
-#
-# See documentation in:
-# http://doc.scrapy.org/en/latest/topics/items.html
+from scrapy import Item, Field
 
-import scrapy
-
-
-class FlightsItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class FlightData(Item):
+    capture_time = Field()
+    departure_time = Field()
+    departure_time_utc = Field()
+    return_time = Field()
+    origin = Field()
+    destination = Field()
+    price = Field()
+    fares_left = Field()
+    flight_code = Field()

@@ -1,12 +1,12 @@
-# TODO: change user agent, set proxies
-
 # -*- coding: utf-8 -*-
+
 import datetime
 import json
 import scrapy
 from scrapy.conf import settings
 
 from flights.helpers import dates
+from flights.items import FlightData
 
 class RyanairSpider(scrapy.Spider):
     name = "ryanair"
@@ -14,13 +14,15 @@ class RyanairSpider(scrapy.Spider):
 
     def start_requests(self):
         self.orig = {
-            'treviso': 'TSF'
+            'treviso': 'TSF',
+            'venice': 'VCE'
         }
         self.dest = {
             'paris': 'BVA',
             'edinburgh': 'EDI',
             'stockholm': 'NYO',
-            'london': 'STN'
+            'london': 'STN',
+            'barcelona': 'BCN'
         }
         # find upcoming Friday(going) and Sunday(coming back)
         next_friday = dates.find_next_friday()
@@ -39,10 +41,6 @@ class RyanairSpider(scrapy.Spider):
                         '&Origin={}'.format(origin)
                     )
                     request = scrapy.Request(''.join(link), self.parse)
-                    request.meta['dept'] = origin
-                    request.meta['arr'] = destination
-                    request.meta['dep_date'] = date_range[0]
-                    request.meta['arr_date'] = date_range[1]
                     yield request
 
     def parse(self, response):
@@ -50,19 +48,22 @@ class RyanairSpider(scrapy.Spider):
         jsonresponse = json.loads(response.body_as_unicode())
         self.logger.info(jsonresponse)
         trips = jsonresponse['trips']
+
+        flights = []
+
         for trip in trips:
-            origin = trip['origin']
-            destination = trip['destination']
             for date_details in trip['dates']:
                 for flight_details in date_details['flights']:
-                    time = flight_details['time'][0]
-                    fares_left = flight_details["faresLeft"]
+                    # initialize scrapy item
+                    fd = FlightData()
+                    fd['capture_time'] = datetime.datetime.now().strftime('%Y/%m/%d %H:%M:%S')
+                    fd['origin'] = trip['origin']
+                    fd['destination'] = trip['destination']
+                    fd['flight_code'] = flight_details['flightNumber']
+                    fd['departure_time'] = flight_details['time'][0]
+                    fd['departure_time_utc'] = flight_details['timeUTC'][0]
+                    fd['fares_left'] = flight_details["faresLeft"]
                     # TODO: there could be more fares to get prices from
-                    price = flight_details['regularFare']['fares'][0]['amount']
-                    yield {
-                        'origin': origin,
-                        'destination': destination,
-                        'time': time,
-                        'fares_left': fares_left,
-                        'price': price
-                    }
+                    fd['price'] = flight_details['regularFare']['fares'][0]['amount']
+                    flights.append(fd)
+        return flights

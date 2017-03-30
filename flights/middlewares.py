@@ -1,12 +1,33 @@
 # -*- coding: utf-8 -*-
 
-# Define here the models for your spider middleware
-#
-# See documentation in:
-# http://doc.scrapy.org/en/latest/topics/spider-middleware.html
-
+import base64
+import random
 from scrapy import signals
+from flights.helpers.agents import AGENTS
+from flights.helpers.proxies import PROXIES_FREE
+# check if private proxies are available
+try:
+    from flights.helpers.privateproxies import PROXIES_PRIVATE, CREDENTIALS
+    has_private_proxies = True
+except ImportError:
+    has_private_proxies = False
 
+class RandomUserAgent(object):
+    def process_request(self, request, spider):
+        agent = random.choice(AGENTS)
+        request.headers['User-Agent'] = agent
+
+class RandomProxy(object):
+    def process_request(self, request, spider):
+        # if private proxies are not available use the free ones
+        proxy_list = PROXIES_PRIVATE if has_private_proxies else PROXIES_FREE
+        proxy = random.choice(proxy_list)
+        request.meta['proxy'] = 'http://%s' % proxy
+        # set proxy authentication if private proxies are available
+        if has_private_proxies:
+            user_pass = CREDENTIALS['user'] + ':' + CREDENTIALS['pwd']
+            user_pass=base64.b64encode(user_pass.encode())
+            request.headers['Proxy-Authorization'] = 'Basic ' + user_pass.decode()
 
 class FlightsSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
