@@ -3,11 +3,11 @@
 import base64
 import random
 from scrapy import signals
-from flights.helpers.agents import AGENTS
-from flights.helpers.proxies import PROXIES_FREE
+from flights.config.agents import AGENTS
+from flights.config.proxies import PROXIES_FREE
 # check if private proxies are available
 try:
-    from flights.helpers.privateproxies import PROXIES_PRIVATE, CREDENTIALS
+    from flights.config.pvt_proxies import PROXIES_PRIVATE, CREDENTIALS
     has_private_proxies = True
 except ImportError:
     has_private_proxies = False

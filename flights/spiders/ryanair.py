@@ -19,10 +19,10 @@ class RyanairSpider(scrapy.Spider):
         }
         self.dest = {
             'paris': 'BVA',
-            'edinburgh': 'EDI',
-            'stockholm': 'NYO',
-            'london': 'STN',
-            'barcelona': 'BCN'
+            # 'edinburgh': 'EDI',
+            # 'stockholm': 'NYO',
+            # 'london': 'STN',
+            # 'barcelona': 'BCN'
         }
         # find upcoming Friday(going) and Sunday(coming back)
         next_friday = dates.find_next_friday()
@@ -62,6 +62,7 @@ class RyanairSpider(scrapy.Spider):
                     fd['flight_code'] = flight_details['flightNumber']
                     fd['departure_time'] = flight_details['time'][0]
                     fd['departure_time_utc'] = flight_details['timeUTC'][0]
+                    fd['duration'] = flight_details['duration']
                     fd['fares_left'] = flight_details["faresLeft"]
                     # TODO: there could be more fares to get prices from
                     fd['price'] = flight_details['regularFare']['fares'][0]['amount']

@@ -6,6 +6,8 @@ class FlightData(Item):
     capture_time = Field()
     departure_time = Field()
     departure_time_utc = Field()
+    arrival_time = Field()
+    duration = Field()
     return_time = Field()
     origin = Field()
     destination = Field()

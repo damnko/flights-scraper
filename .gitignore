@@ -94,4 +94,4 @@ ENV/
 .ropeproject
 
 # Custom files
-privateproxies.py
+flights/config/pvt_*.py
