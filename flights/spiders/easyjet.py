@@ -8,7 +8,7 @@ from scrapy.conf import settings
 from flights.helpers import dates
 from flights.items import FlightData
 
-class RyanairSpider(scrapy.Spider):
+class EasyjetSpider(scrapy.Spider):
     name = "easyjet"
     allowed_domains = ["easyjet.com"]
 

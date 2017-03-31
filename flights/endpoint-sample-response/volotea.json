@@ -1,0 +1,3599 @@
+{
+    "ATH-VCE": [
+        {
+            "Departure": "201704141410",
+            "Arrival": "201704141530",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 156,
+                    "PriceWithFee": 160.37,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 166,
+                    "PriceWithFee": 170.65,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 183.89,
+                    "PriceWithFee": 189.04,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201704171240",
+            "Arrival": "201704171405",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 186,
+                    "PriceWithFee": 191.21,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 203.89,
+                    "PriceWithFee": 209.6,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 176,
+                    "PriceWithFee": 180.93,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201704211410",
+            "Arrival": "201704211530",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201704252105",
+            "Arrival": "201704252230",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 143.89,
+                    "PriceWithFee": 147.92,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 116,
+                    "PriceWithFee": 119.25,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 126,
+                    "PriceWithFee": 129.53,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201704281410",
+            "Arrival": "201704281530",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 126,
+                    "PriceWithFee": 129.53,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 116,
+                    "PriceWithFee": 119.25,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 143.89,
+                    "PriceWithFee": 147.92,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201705011750",
+            "Arrival": "201705011915",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 186,
+                    "PriceWithFee": 191.21,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 203.89,
+                    "PriceWithFee": 209.6,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 176,
+                    "PriceWithFee": 180.93,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201705051410",
+            "Arrival": "201705051530",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201705081750",
+            "Arrival": "201705081915",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201705121410",
+            "Arrival": "201705121530",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201705151750",
+            "Arrival": "201705151915",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 123.89,
+                    "PriceWithFee": 127.36,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201705191410",
+            "Arrival": "201705191530",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201705221750",
+            "Arrival": "201705221915",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201705261410",
+            "Arrival": "201705261535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201705291310",
+            "Arrival": "201705291435",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201705312020",
+            "Arrival": "201705312145",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201706021410",
+            "Arrival": "201706021535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201706051310",
+            "Arrival": "201706051430",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 123.89,
+                    "PriceWithFee": 127.36,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201706072020",
+            "Arrival": "201706072145",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201706091410",
+            "Arrival": "201706091535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201706121310",
+            "Arrival": "201706121435",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 103.89,
+                    "PriceWithFee": 106.8,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201706142020",
+            "Arrival": "201706142145",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 103.89,
+                    "PriceWithFee": 106.8,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201706161410",
+            "Arrival": "201706161535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 103.89,
+                    "PriceWithFee": 106.8,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201706191310",
+            "Arrival": "201706191435",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201706212020",
+            "Arrival": "201706212145",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201706231355",
+            "Arrival": "201706231520",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 103.89,
+                    "PriceWithFee": 106.8,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201706262015",
+            "Arrival": "201706262135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 126,
+                    "PriceWithFee": 129.53,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 143.89,
+                    "PriceWithFee": 147.92,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 116,
+                    "PriceWithFee": 119.25,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201706282015",
+            "Arrival": "201706282135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201706301355",
+            "Arrival": "201706301520",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707032015",
+            "Arrival": "201707032135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201707052015",
+            "Arrival": "201707052135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707071355",
+            "Arrival": "201707071520",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707102015",
+            "Arrival": "201707102135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 103.89,
+                    "PriceWithFee": 106.8,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707122015",
+            "Arrival": "201707122135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707141355",
+            "Arrival": "201707141520",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201707172015",
+            "Arrival": "201707172135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707192015",
+            "Arrival": "201707192135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201707211755",
+            "Arrival": "201707211920",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 103.89,
+                    "PriceWithFee": 106.8,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201707242015",
+            "Arrival": "201707242135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 103.89,
+                    "PriceWithFee": 106.8,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201707262015",
+            "Arrival": "201707262135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201707281730",
+            "Arrival": "201707281855",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201707312015",
+            "Arrival": "201707312135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708022015",
+            "Arrival": "201708022135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201708041730",
+            "Arrival": "201708041855",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 103.89,
+                    "PriceWithFee": 106.8,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201708072015",
+            "Arrival": "201708072135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201708092015",
+            "Arrival": "201708092135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708111730",
+            "Arrival": "201708111855",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201708142015",
+            "Arrival": "201708142135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201708162015",
+            "Arrival": "201708162135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 123.89,
+                    "PriceWithFee": 127.36,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708181730",
+            "Arrival": "201708181855",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 136,
+                    "PriceWithFee": 139.81,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 163.89,
+                    "PriceWithFee": 168.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 146,
+                    "PriceWithFee": 150.09,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201708212015",
+            "Arrival": "201708212135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 146,
+                    "PriceWithFee": 150.09,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 136,
+                    "PriceWithFee": 139.81,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 163.89,
+                    "PriceWithFee": 168.48,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708232015",
+            "Arrival": "201708232135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 103.89,
+                    "PriceWithFee": 106.8,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201708251730",
+            "Arrival": "201708251855",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 146,
+                    "PriceWithFee": 150.09,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 136,
+                    "PriceWithFee": 139.81,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 163.89,
+                    "PriceWithFee": 168.48,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708282015",
+            "Arrival": "201708282135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 116,
+                    "PriceWithFee": 119.25,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 126,
+                    "PriceWithFee": 129.53,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 143.89,
+                    "PriceWithFee": 147.92,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708302015",
+            "Arrival": "201708302135",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709011730",
+            "Arrival": "201709011855",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 123.89,
+                    "PriceWithFee": 127.36,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709041310",
+            "Arrival": "201709041435",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709062020",
+            "Arrival": "201709062145",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201709081410",
+            "Arrival": "201709081535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201709111310",
+            "Arrival": "201709111435",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709132020",
+            "Arrival": "201709132145",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201709151410",
+            "Arrival": "201709151535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709181310",
+            "Arrival": "201709181435",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201709202020",
+            "Arrival": "201709202145",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709221410",
+            "Arrival": "201709221535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709251310",
+            "Arrival": "201709251435",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201709272020",
+            "Arrival": "201709272145",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709291410",
+            "Arrival": "201709291535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201710021325",
+            "Arrival": "201710021450",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 93.89,
+                    "PriceWithFee": 96.52,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201710061410",
+            "Arrival": "201710061535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201710091750",
+            "Arrival": "201710091915",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201710131410",
+            "Arrival": "201710131535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201710161750",
+            "Arrival": "201710161915",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201710201410",
+            "Arrival": "201710201535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201710231750",
+            "Arrival": "201710231915",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201710271410",
+            "Arrival": "201710271535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 83.89,
+                    "PriceWithFee": 86.24,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201710301750",
+            "Arrival": "201710301915",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201711011410",
+            "Arrival": "201711011535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201711031410",
+            "Arrival": "201711031535",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201711061750",
+            "Arrival": "201711061915",
+            "FlightNumber": "1491",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 73.89,
+                    "PriceWithFee": 75.96,
+                    "FareType": "P"
+                }
+            ]
+        }
+    ],
+    "VCE-ATH": [
+        {
+            "Departure": "201704140800",
+            "Arrival": "201704141115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 210.39,
+                    "PriceWithFee": 216.28,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 186,
+                    "PriceWithFee": 191.21,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201704170630",
+            "Arrival": "201704170945",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 170.39,
+                    "PriceWithFee": 175.16,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 146,
+                    "PriceWithFee": 150.09,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 136,
+                    "PriceWithFee": 139.81,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201704251455",
+            "Arrival": "201704251810",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201704280800",
+            "Arrival": "201704281115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 100.39,
+                    "PriceWithFee": 103.2,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201705011140",
+            "Arrival": "201705011455",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 100.39,
+                    "PriceWithFee": 103.2,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201705050800",
+            "Arrival": "201705051115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 210.39,
+                    "PriceWithFee": 216.28,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 186,
+                    "PriceWithFee": 191.21,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201705081140",
+            "Arrival": "201705081455",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 420.39,
+                    "PriceWithFee": 432.16,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 396,
+                    "PriceWithFee": 407.09,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201705120800",
+            "Arrival": "201705121115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201705151140",
+            "Arrival": "201705151455",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201705190800",
+            "Arrival": "201705191115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 90.39,
+                    "PriceWithFee": 92.92,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201705221140",
+            "Arrival": "201705221455",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 100.39,
+                    "PriceWithFee": 103.2,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201705260800",
+            "Arrival": "201705261115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201705291310",
+            "Arrival": "201705291625",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201705311350",
+            "Arrival": "201705311705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 100.39,
+                    "PriceWithFee": 103.2,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201706020800",
+            "Arrival": "201706021115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201706051310",
+            "Arrival": "201706051625",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201706071350",
+            "Arrival": "201706071705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201706090800",
+            "Arrival": "201706091115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201706121310",
+            "Arrival": "201706121625",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201706141350",
+            "Arrival": "201706141705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 100.39,
+                    "PriceWithFee": 103.2,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201706160800",
+            "Arrival": "201706161115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 126,
+                    "PriceWithFee": 129.53,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 150.39,
+                    "PriceWithFee": 154.6,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 116,
+                    "PriceWithFee": 119.25,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201706191310",
+            "Arrival": "201706191625",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201706211350",
+            "Arrival": "201706211705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 90.39,
+                    "PriceWithFee": 92.92,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201706231015",
+            "Arrival": "201706231330",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201706261345",
+            "Arrival": "201706261700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201706281345",
+            "Arrival": "201706281700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 90.39,
+                    "PriceWithFee": 92.92,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201706301015",
+            "Arrival": "201706301330",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201707031345",
+            "Arrival": "201707031700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201707051345",
+            "Arrival": "201707051700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 246,
+                    "PriceWithFee": 252.89,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 270.39,
+                    "PriceWithFee": 277.96,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201707071015",
+            "Arrival": "201707071330",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707101345",
+            "Arrival": "201707101700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201707121345",
+            "Arrival": "201707121700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707141015",
+            "Arrival": "201707141330",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707171345",
+            "Arrival": "201707171700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201707191345",
+            "Arrival": "201707191700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 100.39,
+                    "PriceWithFee": 103.2,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707211415",
+            "Arrival": "201707211730",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707241345",
+            "Arrival": "201707241700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 100.39,
+                    "PriceWithFee": 103.2,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201707261345",
+            "Arrival": "201707261700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 100.39,
+                    "PriceWithFee": 103.2,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707281350",
+            "Arrival": "201707281705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201707311345",
+            "Arrival": "201707311700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201708021345",
+            "Arrival": "201708021700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708041350",
+            "Arrival": "201708041705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708071345",
+            "Arrival": "201708071700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 150.39,
+                    "PriceWithFee": 154.6,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 116,
+                    "PriceWithFee": 119.25,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 126,
+                    "PriceWithFee": 129.53,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201708091345",
+            "Arrival": "201708091700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708111350",
+            "Arrival": "201708111705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 130.39,
+                    "PriceWithFee": 134.04,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 105.99,
+                    "PriceWithFee": 108.96,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 95.99,
+                    "PriceWithFee": 98.68,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201708141345",
+            "Arrival": "201708141700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 85.99,
+                    "PriceWithFee": 88.4,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 75.99,
+                    "PriceWithFee": 78.12,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 110.39,
+                    "PriceWithFee": 113.48,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708161345",
+            "Arrival": "201708161700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 90.39,
+                    "PriceWithFee": 92.92,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201708181350",
+            "Arrival": "201708181705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201708211345",
+            "Arrival": "201708211700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201708231345",
+            "Arrival": "201708231700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201708251350",
+            "Arrival": "201708251705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201708281345",
+            "Arrival": "201708281700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201708301345",
+            "Arrival": "201708301700",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201709011350",
+            "Arrival": "201709011705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201709041310",
+            "Arrival": "201709041625",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201709061350",
+            "Arrival": "201709061705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201709080800",
+            "Arrival": "201709081115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201709111310",
+            "Arrival": "201709111625",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201709131350",
+            "Arrival": "201709131705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709150800",
+            "Arrival": "201709151115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 90.39,
+                    "PriceWithFee": 92.92,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709181310",
+            "Arrival": "201709181625",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709201350",
+            "Arrival": "201709201705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 25.99,
+                    "PriceWithFee": 26.72,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 55.39,
+                    "PriceWithFee": 56.94,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201709220800",
+            "Arrival": "201709221115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709251310",
+            "Arrival": "201709251625",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709271350",
+            "Arrival": "201709271705",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 25.99,
+                    "PriceWithFee": 26.72,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 55.39,
+                    "PriceWithFee": 56.94,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201709290800",
+            "Arrival": "201709291115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201710020715",
+            "Arrival": "201710021030",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 90.39,
+                    "PriceWithFee": 92.92,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201710060800",
+            "Arrival": "201710061115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Promo": true,
+            "Prices": [
+                {
+                    "Price": 17.5,
+                    "PriceWithFee": 17.99,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 19.45,
+                    "PriceWithFee": 19.99,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201710091140",
+            "Arrival": "201710091455",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 65.99,
+                    "PriceWithFee": 67.84,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 90.39,
+                    "PriceWithFee": 92.92,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201710130800",
+            "Arrival": "201710131115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201710161140",
+            "Arrival": "201710161455",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Promo": true,
+            "Prices": [
+                {
+                    "Price": 17.5,
+                    "PriceWithFee": 17.99,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 19.45,
+                    "PriceWithFee": 19.99,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201710200800",
+            "Arrival": "201710201115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201710231140",
+            "Arrival": "201710231455",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                }
+            ]
+        },
+        {
+            "Departure": "201710270800",
+            "Arrival": "201710271115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201710301140",
+            "Arrival": "201710301455",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201711010800",
+            "Arrival": "201711011115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                }
+            ]
+        },
+        {
+            "Departure": "201711030800",
+            "Arrival": "201711031115",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 80.39,
+                    "PriceWithFee": 82.64,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "S"
+                },
+                {
+                    "Price": 55.99,
+                    "PriceWithFee": 57.56,
+                    "FareType": "R"
+                }
+            ]
+        },
+        {
+            "Departure": "201711061140",
+            "Arrival": "201711061455",
+            "FlightNumber": "1490",
+            "Terminal": "",
+            "Prices": [
+                {
+                    "Price": 45.99,
+                    "PriceWithFee": 47.28,
+                    "FareType": "R"
+                },
+                {
+                    "Price": 70.39,
+                    "PriceWithFee": 72.36,
+                    "FareType": "P"
+                },
+                {
+                    "Price": 35.99,
+                    "PriceWithFee": 37,
+                    "FareType": "S"
+                }
+            ]
+        }
+    ]
+}
